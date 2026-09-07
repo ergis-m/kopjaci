@@ -13,6 +13,7 @@ Requires macOS 26 and Accessibility permission (asked for on first use; it's nee
 ### Homebrew
 
 ```sh
+brew trust --tap https://github.com/ergis-m/kopjaci   # Homebrew 6+, taps outside homebrew/* must be trusted by URL
 brew tap ergis-m/kopjaci https://github.com/ergis-m/kopjaci
 brew install --cask kopjaci
 ```
