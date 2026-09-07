@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleExecutable</key>
 	<string>Kopjaci</string>
+	<key>CFBundleIconFile</key>
+	<string>Kopjaci</string>
 	<key>CFBundleIdentifier</key>
 	<string>dev.ergis.kopjaci</string>
 	<key>CFBundleName</key>
